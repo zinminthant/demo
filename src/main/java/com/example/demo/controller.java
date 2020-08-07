@@ -10,7 +10,7 @@ public class controller{
 	
 	@RequestMapping("/")
 	public String main(){
-		return "main  abc 123 456 45665567";
+		return "main  abc 123 456 4566556rrrr7";
 	}
 	
 }
