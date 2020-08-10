@@ -12,5 +12,11 @@ public class controller{
 	public String main(){
 		return "main  abc 123 456 4566556rrrr7";
 	}
+
+
+    @RequestMapping("/testing")
+    public String testing(){
+        return "testing";
+    }
 	
 }
